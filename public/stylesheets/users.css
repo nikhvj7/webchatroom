@@ -1,0 +1,21 @@
+
+#chat{
+  background: #eee;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+
+#chatbox{
+  margin: 0 auto;
+  background: #fff;
+  height: 15em;
+  overflow: scroll;
+  padding-left: 2em;
+  padding-top: 1em;
+}
+
+#user_input > input{
+  margin: 0.5em auto;
+  display:block;
+  width: 70%;
+}
